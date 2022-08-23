@@ -1,13 +1,9 @@
 # Password Generator
+This Password Generator project is a challenge from scrimba javascript course which is created from figma design using only HTML, CSS and JavaScript without using any library and framework. It generates two secure 15 characters password and can be copied to clipboard for ease of use.
 
 ## About Scrimba
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+![Password Generator Figma Design](https://user-images.githubusercontent.com/69369304/186142034-2c7e562a-5fac-475e-ba8a-ac323dc95985.jpg)
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
